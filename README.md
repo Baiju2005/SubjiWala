@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🥦 Subjiwala — Online Vegetable Ordering Platform
 
 **Subjiwala** is a full-stack MERN application that digitizes a traditional vegetable (sabji) business.  
